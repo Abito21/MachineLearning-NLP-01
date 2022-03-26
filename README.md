@@ -7,7 +7,7 @@ Projek dipublish pada github https://github.com/Abito21/MachineLearning-NLP-01
 
 Projek yang saya buat untuk memenuhi tugas submission pertama kursus Belajar Pengembang Machine Learning di Dicoding Academy, dijelaskan sebagai berikut
 
-•	Data Preparation
+## •	Data Preparation
 
 Data yang digunakan adalah dataset bbc-new-data yang diunduh melalui kaggle https://www.kaggle.com/hgultekin/bbcnewsarchive kemudian agar lebih mudah mengaksesnya saya menyimpannya di google drive.
 
@@ -31,13 +31,13 @@ Membuat kategori multiclass terdiri dari business, entertainment, politics, spor
 
 Terlebih dahulu melakukan tokenization untuk memisahkan elemen kata, sequence menghitung nilai objek kata dan padding mengenali objek kata.
 
-•	Data Modelling
+## •	Data Modelling
 
 Membuat model machine learning menggunakan framework tensorflow yang akan digunakan untuk melakukan pelatihan dataset
 
 ![image](https://user-images.githubusercontent.com/67644383/160244586-31fe100f-07bd-4787-b1b5-e5b2eb2477c6.png)
 
-•	Metrik Akurasi
+## •	Metrik Akurasi
 
 ![image](https://user-images.githubusercontent.com/67644383/160244601-7d1bbfe9-af6a-4be8-a850-7d66e21c8dcd.png)
  
